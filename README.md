@@ -1,13 +1,14 @@
-﻿# Formulario evento
+﻿# Event Form
 
-Um pequeno formulário de eventos.
-Você pode visualizar o projeto por aqui: [formulário evento](https://afraniocaires.github.io/formulario-evento/)
+A small event form.
+You can view the project here: [event form](https://afraniocaires.github.io/formulario-evento/)
+
 ## Screenshots
 
 ![preview](./.github/preview1.png)
 ![preview](./.github/preview2.png)
 
-## Tecnologias usadas
+## Technologies Used
 
 - HTML
 - CSS
